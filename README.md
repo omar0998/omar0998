@@ -94,7 +94,7 @@ Fine-tuned a pre-trained BERT model for sentiment analysis using the Tweet Senti
 ---
 
 ### 🔍 Deepfake Image Detection with CNN
-**Accuracy: 98%** | [View Repository](#)
+**Accuracy: 98%** | [View Repository](https://github.com/omar0998/DeepFake_Detection)
 
 Created a robust CNN model to detect real vs. manipulated images, addressing the growing concern of deepfake content in digital media.
 
