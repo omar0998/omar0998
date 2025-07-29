@@ -49,7 +49,7 @@ I'm a passionate **Junior AI Engineer** with a strong foundation in machine lear
 ## 🏆 Featured Projects
 
 ### 🧠 Autism Spectrum Disorder Detection using fMRI
-**Accuracy: 96%** | [View Repository]([#](https://github.com/omar0998/Autism-Spectrum-Disorder))
+**Accuracy: 96%** | [View Repository](https://github.com/omar0998/Autism-Spectrum-Disorder)
 
 Built a CNN model to classify Autism Spectrum Disorder using fMRI data from the ABIDE dataset. This project demonstrates advanced skills in medical AI and neuroimaging data processing.
 
