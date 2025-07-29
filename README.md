@@ -18,7 +18,7 @@ I'm a passionate **Junior AI Engineer** with a strong foundation in machine lear
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### AI/ML Frameworks & Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -37,7 +37,6 @@ I'm a passionate **Junior AI Engineer** with a strong foundation in machine lear
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🎯 Areas of Expertise
 
@@ -46,12 +45,11 @@ I'm a passionate **Junior AI Engineer** with a strong foundation in machine lear
 - **📝 Natural Language Processing**: BERT, Transformers, Sentiment Analysis
 - **🏥 Medical AI**: fMRI Analysis, Neuroimaging, Brain Connectivity
 - **📊 Data Analysis**: Statistical Modeling, Data Visualization, Predictive Analytics
-- **☁️ Cloud Computing**: Model Deployment, Scalable AI Solutions
 
 ## 🏆 Featured Projects
 
 ### 🧠 Autism Spectrum Disorder Detection using fMRI
-**Accuracy: 96%** | [View Repository](#)
+**Accuracy: 96%** | [View Repository]([#](https://github.com/omar0998/Autism-Spectrum-Disorder))
 
 Built a CNN model to classify Autism Spectrum Disorder using fMRI data from the ABIDE dataset. This project demonstrates advanced skills in medical AI and neuroimaging data processing.
 
