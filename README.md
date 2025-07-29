@@ -64,7 +64,7 @@ Built a CNN model to classify Autism Spectrum Disorder using fMRI data from the 
 ---
 
 ### 😷 Face Mask Detection Using CNN and Transfer Learning
-**Accuracy: 99%** | [View Repository](#)
+**Accuracy: 99%** | [View Repository](https://github.com/omar0998/Face-Mask-Detection)
 
 Developed an AI-based face mask detection system using transfer learning with VGG16 and ResNet50 models for real-time detection applications.
 
@@ -79,7 +79,7 @@ Developed an AI-based face mask detection system using transfer learning with VG
 ---
 
 ### 💭 Sentiment Analysis with Transformers
-**Accuracy: 96%** | [View Repository](#)
+**Accuracy: 96%** |
 
 Fine-tuned a pre-trained BERT model for sentiment analysis using the Tweet Sentiment Extraction dataset, showcasing expertise in NLP and transformer models.
 
